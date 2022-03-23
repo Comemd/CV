@@ -1,0 +1,35 @@
+body{
+    background-color: #FDF6EC;
+    font-family: "Cambria";
+}
+h1{
+    color: #DAB88B;
+}
+h3{
+    color: #92A9BD;
+}
+h2{
+    color: #DAB88B;
+}
+ul{
+    color: #B7CADB;
+}
+hr{
+    color: #FFEFEF;
+}
+table{
+    color: #92A9BD;
+    border-collapse: collapse;
+    border: 1px solid #DAB88B;
+}
+a{
+    color: #B7CADB;
+}
+span:hover{
+    color: #DAB88B;
+    text-decoration: underline;
+}
+label{
+    font-family: "Cambria";
+    color: #92A9BD;
+}
